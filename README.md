@@ -16,3 +16,5 @@ Instalação das libs de dependência.
 ```
 pip install -r requirements.txt
 ```
+
+**Obs:** *Descompactar o arquivo AgeDataset-V1.zip para usa-lo como dataset*
