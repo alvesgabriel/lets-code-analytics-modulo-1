@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 
-AgeDataset-V1.csv
+*.csv
